@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently trying to recreate classic arcade games with Javascript
 - 🌱 I’m currently learning Java and pixel art
 - 👯 I’m looking to collaborate on a game project
