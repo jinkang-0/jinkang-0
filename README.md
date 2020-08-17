@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I
 
 ### Contacts
-Instagram[https://www.instagram.com/zdrm0/]
-LinkedIn[https://www.linkedin.com/in/jinkang-fang-64b6021b3/]
+[Instagram][https://www.instagram.com/zdrm0/]
+[LinkedIn][https://www.linkedin.com/in/jinkang-fang-64b6021b3/]
 
 ### Portfolio
 https://jinkang-0.github.io/Portfolio/
