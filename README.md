@@ -16,8 +16,8 @@
 - ⚡ Fun fact: I like **cookies**
 
 ### Contacts
-[<img src="assets/instagram.png" width=30px height=30px style="padding:5px">](https://instagram.com/zdrm0/)
-[<img src="assets/linkedin.png" width=30px height=30px style="padding:5px">](https://www.linkedin.com/in/jinkang-fang-64b6021b3/)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/zdrm0/)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jinkang-fang-64b6021b3/)
 
 ### My Portfolio
 
