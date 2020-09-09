@@ -9,14 +9,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=jinkang-0&theme=tokyonight&hide=prs&show_icons=true">
   </a>
+  
+  <br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinkang-0&layout=compact&theme=tokyonight">
   </a>
 
 </details>
-
-<br>
 
 # About me
 - 🔭 I'm currently working on various projects and am busy with school
