@@ -23,7 +23,3 @@
 - 🌱 I’m currently learning game design
 - 👯 I’m looking to collaborate on a game project
 - ⚡ Fun fact: I like **cookies**
-
-### Contacts
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/zdrm0/)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jinkang-fang-64b6021b3/)
