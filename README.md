@@ -18,8 +18,3 @@
 
 </details>
 
-# About me
-- 🔭 I'm currently working on various projects and am busy with school
-- 🌱 I’m currently learning game design
-- 👯 I’m looking to collaborate on a game project
-- ⚡ Fun fact: I like **cookies**
