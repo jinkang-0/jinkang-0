@@ -6,15 +6,7 @@
 
   <summary>📝 Github Stats</summary>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=jinkang-0&theme=tokyonight&hide=prs&show_icons=true">
-  </a>
-
-  <br>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinkang-0&layout=compact&theme=tokyonight">
-  </a>
+  ![Jinkang's Github Stats](https://github-readme-stats.vercel.app/api?username=jinkang-0&show_icons=true&theme=tokyonight)
 
 </details>
 
